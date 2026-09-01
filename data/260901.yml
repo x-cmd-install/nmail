@@ -1,0 +1,61 @@
+about:
+  description: Terminal-based email client for Linux and macOS
+  license: MIT
+  homepage: 
+  head: 92699ba
+  archived: false
+  latestVersion: v5.15.8
+  collectedAt: 2026-09-01T05:05:59Z
+timeline:
+  created: 2019-05-03
+  lastCommit: 2026-08-30
+  lastRelease: 2026-08-15
+popularity:
+  star: 255
+  watcher: 11
+  fork: 17
+  release: 52
+  contributor: 8
+  pullRequest: 1
+  issue: 135
+language:
+  C++: 676672
+  Python: 43947
+  Shell: 36427
+  CMake: 22321
+  Roff: 2598
+  C: 1446
+totalLine: 783411
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 1
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 3
+  last90d:
+    since: 2026-06-03
+    release: 3
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 25
+  last180d:
+    since: 2026-03-05
+    release: 5
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 2
+    openIssue: 0
+    commit: 39
+  last360d:
+    since: 2025-09-06
+    release: 9
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 8
+    openIssue: 0
+    commit: 63
