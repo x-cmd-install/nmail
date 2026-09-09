@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5576542,
       "digest": "sha256:2b6770651e778d4451810c066ad60369f66704f20999ceeeaf580ce9165f82e1",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-08-15T06:50:10Z",
       "updated_at": "2026-08-15T06:50:11Z",
       "browser_download_url": "https://github.com/d99kris/nmail/releases/download/v5.15.8/nmail-5.15.8-linux-x86_64-glibc.tar.gz"
