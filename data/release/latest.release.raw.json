@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5533067,
       "digest": "sha256:87797e6eff2906ae36bd4468c1b1e8a198e32742228d8b576d1307d351530e7f",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-15T06:50:10Z",
       "updated_at": "2026-08-15T06:50:11Z",
       "browser_download_url": "https://github.com/d99kris/nmail/releases/download/v5.15.8/nmail-5.15.8-linux-arm64-musl.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5576542,
       "digest": "sha256:2b6770651e778d4451810c066ad60369f66704f20999ceeeaf580ce9165f82e1",
-      "download_count": 20,
+      "download_count": 22,
       "created_at": "2026-08-15T06:50:10Z",
       "updated_at": "2026-08-15T06:50:11Z",
       "browser_download_url": "https://github.com/d99kris/nmail/releases/download/v5.15.8/nmail-5.15.8-linux-x86_64-glibc.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 602,
       "digest": "sha256:0b650d73b2094a56a44660fb8bfe792bd113a9ec7721780a4849789aa2394014",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-08-15T06:50:10Z",
       "updated_at": "2026-08-15T06:50:10Z",
       "browser_download_url": "https://github.com/d99kris/nmail/releases/download/v5.15.8/sha256sums.txt"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 11741010,
       "digest": "sha256:d1819ee51c6a87a35b7f14ef45cca89f76668ade04b99372678fc63a7fd52e1a",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-15T06:50:10Z",
       "updated_at": "2026-08-15T06:50:11Z",
       "browser_download_url": "https://github.com/d99kris/nmail/releases/download/v5.15.8/symbols-5.15.8.tar.gz"
