@@ -31,40 +31,40 @@ Total: **174,070** lines of code across **761** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v5.15.8` (2026-08-15)
+- **Latest**: `v5.16.4` (2026-09-26)
 - **Last commit**: 2026-09-12
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 260 · **Forks**: 17 · **Open issues**: 135 · **Contributors**: 9
+- **Stars**: 261 · **Forks**: 17 · **Open issues**: 135 · **Contributors**: 9
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 25 · **Open PRs**: 0 · **Closed issues**: 135 · **Open issues**: 0 · **Commits**: 679
+- **Releases**: 53 · **Merged PRs**: 25 · **Open PRs**: 0 · **Closed issues**: 135 · **Open issues**: 0 · **Commits**: 679
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 0 | 2 | 0 | 0 | 0 | 4 |
-| last60d | 2026-07-27 | 1 | 2 | 0 | 0 | 0 | 5 |
-| 90d | 2026-06-27 | 3 | 2 | 0 | 0 | 0 | 27 |
-| last180d | 2026-03-29 | 4 | 2 | 0 | 2 | 0 | 37 |
-| 360d | 2025-09-30 | 8 | 2 | 0 | 8 | 0 | 65 |
-| last720d | 2024-10-05 | 14 | 5 | 0 | 12 | 0 | 96 |
+| 30d | 2026-08-27 | 1 | 2 | 0 | 0 | 0 | 4 |
+| last60d | 2026-07-28 | 2 | 2 | 0 | 0 | 0 | 5 |
+| 90d | 2026-06-28 | 3 | 2 | 0 | 0 | 0 | 27 |
+| last180d | 2026-03-30 | 5 | 2 | 0 | 2 | 0 | 37 |
+| 360d | 2025-10-01 | 9 | 2 | 0 | 8 | 0 | 65 |
+| last720d | 2024-10-06 | 15 | 5 | 0 | 12 | 0 | 96 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [nmail-5.15.8-linux-arm64-glibc.tar.gz](https://github.com/d99kris/nmail/releases/download/v5.15.8/nmail-5.15.8-linux-arm64-glibc.tar.gz) | 5.0 MiB | `native/linux/arm64` |
-| [nmail-5.15.8-linux-arm64-musl.tar.gz](https://github.com/d99kris/nmail/releases/download/v5.15.8/nmail-5.15.8-linux-arm64-musl.tar.gz) | 5.3 MiB | `native/linux/arm64/musl` |
-| [nmail-5.15.8-linux-x86_64-glibc.tar.gz](https://github.com/d99kris/nmail/releases/download/v5.15.8/nmail-5.15.8-linux-x86_64-glibc.tar.gz) | 5.3 MiB | `native/linux/x64` |
-| [nmail-5.15.8-linux-x86_64-musl.tar.gz](https://github.com/d99kris/nmail/releases/download/v5.15.8/nmail-5.15.8-linux-x86_64-musl.tar.gz) | 5.2 MiB | `native/linux/x64/musl` |
-| [nmail-5.15.8-macos-arm64.tar.gz](https://github.com/d99kris/nmail/releases/download/v5.15.8/nmail-5.15.8-macos-arm64.tar.gz) | 3.7 MiB | `native/darwin/arm64` |
-| [sha256sums.txt](https://github.com/d99kris/nmail/releases/download/v5.15.8/sha256sums.txt) | 602 B | `other` |
-| [symbols-5.15.8.tar.gz](https://github.com/d99kris/nmail/releases/download/v5.15.8/symbols-5.15.8.tar.gz) | 11.2 MiB | `native/unknown` |
+| [nmail-5.16.4-linux-arm64-glibc.tar.gz](https://github.com/d99kris/nmail/releases/download/v5.16.4/nmail-5.16.4-linux-arm64-glibc.tar.gz) | 5.0 MiB | `native/linux/arm64` |
+| [nmail-5.16.4-linux-arm64-musl.tar.gz](https://github.com/d99kris/nmail/releases/download/v5.16.4/nmail-5.16.4-linux-arm64-musl.tar.gz) | 5.3 MiB | `native/linux/arm64/musl` |
+| [nmail-5.16.4-linux-x86_64-glibc.tar.gz](https://github.com/d99kris/nmail/releases/download/v5.16.4/nmail-5.16.4-linux-x86_64-glibc.tar.gz) | 5.3 MiB | `native/linux/x64` |
+| [nmail-5.16.4-linux-x86_64-musl.tar.gz](https://github.com/d99kris/nmail/releases/download/v5.16.4/nmail-5.16.4-linux-x86_64-musl.tar.gz) | 5.2 MiB | `native/linux/x64/musl` |
+| [nmail-5.16.4-macos-arm64.tar.gz](https://github.com/d99kris/nmail/releases/download/v5.16.4/nmail-5.16.4-macos-arm64.tar.gz) | 3.7 MiB | `native/darwin/arm64` |
+| [sha256sums.txt](https://github.com/d99kris/nmail/releases/download/v5.16.4/sha256sums.txt) | 602 B | `other` |
+| [symbols-5.16.4.tar.gz](https://github.com/d99kris/nmail/releases/download/v5.16.4/symbols-5.16.4.tar.gz) | 11.2 MiB | `native/unknown` |
 
 ## Improve this data
 
@@ -75,4 +75,4 @@ Install metadata for nmail lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T06:20:01Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T06:11:09Z._
