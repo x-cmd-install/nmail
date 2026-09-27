@@ -32,27 +32,27 @@ Total: **174,070** lines of code across **761** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v5.16.4` (2026-09-26)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-27
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 261 · **Forks**: 17 · **Open issues**: 135 · **Contributors**: 9
+- **Stars**: 261 · **Forks**: 18 · **Open issues**: 135 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 25 · **Open PRs**: 0 · **Closed issues**: 135 · **Open issues**: 0 · **Commits**: 679
+- **Releases**: 53 · **Merged PRs**: 26 · **Open PRs**: 0 · **Closed issues**: 135 · **Open issues**: 0 · **Commits**: 681
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 1 | 2 | 0 | 0 | 0 | 4 |
-| last60d | 2026-07-28 | 2 | 2 | 0 | 0 | 0 | 5 |
-| 90d | 2026-06-28 | 3 | 2 | 0 | 0 | 0 | 27 |
-| last180d | 2026-03-30 | 5 | 2 | 0 | 2 | 0 | 37 |
-| 360d | 2025-10-01 | 9 | 2 | 0 | 8 | 0 | 65 |
-| last720d | 2024-10-06 | 15 | 5 | 0 | 12 | 0 | 96 |
+| 30d | 2026-08-28 | 1 | 3 | 0 | 0 | 0 | 4 |
+| last60d | 2026-07-29 | 2 | 3 | 0 | 0 | 0 | 7 |
+| 90d | 2026-06-29 | 3 | 3 | 0 | 0 | 0 | 29 |
+| last180d | 2026-03-31 | 5 | 3 | 0 | 2 | 0 | 36 |
+| 360d | 2025-10-02 | 9 | 3 | 0 | 8 | 0 | 62 |
+| last720d | 2024-10-07 | 15 | 6 | 0 | 12 | 0 | 98 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for nmail lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T06:11:09Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:35:30Z._
