@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5579425,
       "digest": "sha256:11553cd105c140ec91b18247ddbfb90b23d35a1a84a4cb32b8d7e72715931361",
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2026-09-26T01:53:24Z",
       "updated_at": "2026-09-26T01:53:24Z",
       "browser_download_url": "https://github.com/d99kris/nmail/releases/download/v5.16.4/nmail-5.16.4-linux-x86_64-glibc.tar.gz"
