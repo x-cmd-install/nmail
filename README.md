@@ -37,7 +37,7 @@ Total: **174,070** lines of code across **761** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 266 · **Forks**: 19 · **Open issues**: 135 · **Contributors**: 10
+- **Stars**: 267 · **Forks**: 19 · **Open issues**: 135 · **Contributors**: 10
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **174,070** lines of code across **761** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 1 | 0 | 0 | 0 | 2 |
-| last60d | 2026-08-22 | 1 | 3 | 0 | 0 | 0 | 6 |
-| 90d | 2026-07-23 | 2 | 3 | 0 | 0 | 0 | 7 |
-| last180d | 2026-04-24 | 5 | 3 | 0 | 1 | 0 | 36 |
-| 360d | 2025-10-26 | 9 | 3 | 0 | 7 | 0 | 58 |
-| last720d | 2024-10-31 | 15 | 6 | 0 | 12 | 0 | 98 |
+| 30d | 2026-09-22 | 1 | 1 | 0 | 0 | 0 | 2 |
+| last60d | 2026-08-23 | 1 | 3 | 0 | 0 | 0 | 6 |
+| 90d | 2026-07-24 | 2 | 3 | 0 | 0 | 0 | 7 |
+| last180d | 2026-04-25 | 5 | 3 | 0 | 1 | 0 | 36 |
+| 360d | 2025-10-27 | 9 | 3 | 0 | 7 | 0 | 58 |
+| last720d | 2024-11-01 | 15 | 6 | 0 | 12 | 0 | 98 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for nmail lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T06:08:21Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T06:06:19Z._
