@@ -14,15 +14,15 @@ x install nmail
 
 ## Code insight
 
-Total: **174,070** lines of code across **761** files in the top 5 languages.
+Total: **174,121** lines of code across **763** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | C | 97,988 | 11,107 | 23,718 | 207 |
-| CHeader | 32,009 | 17,737 | 8,610 | 320 |
-| Cpp | 22,869 | 1,899 | 3,673 | 114 |
+| CHeader | 32,016 | 17,743 | 8,613 | 321 |
+| Cpp | 22,888 | 1,906 | 3,678 | 115 |
 | CppHeader | 13,045 | 6,280 | 2,611 | 95 |
-| Sh | 1,894 | 579 | 386 | 25 |
+| Sh | 1,900 | 579 | 386 | 25 |
 
 ## Source
 
@@ -32,27 +32,27 @@ Total: **174,070** lines of code across **761** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v5.16.4` (2026-09-26)
-- **Last commit**: 2026-09-27
+- **Last commit**: 2026-10-25
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 267 · **Forks**: 19 · **Open issues**: 135 · **Contributors**: 10
+- **Stars**: 266 · **Forks**: 19 · **Open issues**: 135 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 26 · **Open PRs**: 0 · **Closed issues**: 135 · **Open issues**: 0 · **Commits**: 681
+- **Releases**: 53 · **Merged PRs**: 26 · **Open PRs**: 0 · **Closed issues**: 135 · **Open issues**: 0 · **Commits**: 684
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 1 | 1 | 0 | 0 | 0 | 2 |
-| last60d | 2026-08-25 | 1 | 3 | 0 | 0 | 0 | 6 |
-| 90d | 2026-07-26 | 2 | 3 | 0 | 0 | 0 | 7 |
-| last180d | 2026-04-27 | 5 | 3 | 0 | 1 | 0 | 36 |
-| 360d | 2025-10-29 | 9 | 3 | 0 | 7 | 0 | 58 |
-| last720d | 2024-11-03 | 15 | 6 | 0 | 12 | 0 | 98 |
+| 30d | 2026-09-25 | 1 | 1 | 0 | 0 | 0 | 3 |
+| last60d | 2026-08-26 | 1 | 3 | 0 | 0 | 0 | 7 |
+| 90d | 2026-07-27 | 2 | 3 | 0 | 0 | 0 | 10 |
+| last180d | 2026-04-28 | 5 | 3 | 0 | 1 | 0 | 39 |
+| 360d | 2025-10-30 | 9 | 3 | 0 | 7 | 0 | 61 |
+| last720d | 2024-11-04 | 15 | 6 | 0 | 12 | 0 | 101 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for nmail lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:56:11Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:58:18Z._
