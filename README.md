@@ -14,15 +14,15 @@ x install nmail
 
 ## Code insight
 
-Total: **234,743** lines of code across **1115** files in the top 5 languages.
+Total: **236,622** lines of code across **1123** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | C | 132,939 | 14,513 | 32,821 | 373 |
-| CHeader | 53,100 | 21,570 | 11,939 | 498 |
-| Cpp | 25,817 | 2,058 | 4,176 | 121 |
+| CHeader | 53,209 | 21,594 | 11,961 | 502 |
+| Cpp | 26,970 | 2,131 | 4,377 | 125 |
 | CppHeader | 13,045 | 6,280 | 2,611 | 95 |
-| Sh | 2,083 | 619 | 421 | 28 |
+| Sh | 2,115 | 637 | 423 | 28 |
 
 ## Source
 
@@ -41,18 +41,18 @@ Total: **234,743** lines of code across **1115** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 25 · **Open PRs**: 0 · **Closed issues**: 135 · **Open issues**: 0 · **Commits**: 706
+- **Releases**: 53 · **Merged PRs**: 25 · **Open PRs**: 0 · **Closed issues**: 135 · **Open issues**: 0 · **Commits**: 711
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 0 | 0 | 0 | 0 | 25 |
-| last60d | 2026-09-16 | 1 | 0 | 0 | 0 | 0 | 26 |
-| 90d | 2026-08-17 | 1 | 2 | 0 | 0 | 0 | 30 |
-| last180d | 2026-05-19 | 4 | 2 | 0 | 0 | 0 | 53 |
-| 360d | 2025-11-20 | 8 | 2 | 0 | 6 | 0 | 76 |
-| last720d | 2024-11-25 | 15 | 5 | 0 | 12 | 0 | 123 |
+| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 0 | 30 |
+| last60d | 2026-09-17 | 1 | 0 | 0 | 0 | 0 | 31 |
+| 90d | 2026-08-18 | 1 | 2 | 0 | 0 | 0 | 35 |
+| last180d | 2026-05-20 | 4 | 2 | 0 | 0 | 0 | 58 |
+| 360d | 2025-11-21 | 8 | 2 | 0 | 6 | 0 | 81 |
+| last720d | 2024-11-26 | 15 | 5 | 0 | 12 | 0 | 128 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for nmail lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T08:24:25Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:55:42Z._
