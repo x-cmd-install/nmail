@@ -238,7 +238,7 @@
   visiblename: nmail
   version: 5.16.4
   origversion: 5.16.4-1
-  status: newest
+  status: outdated
   summary: Terminal-based email client
   maintainers:
     - carlosal1015@aur
@@ -250,7 +250,7 @@
   visiblename: nmail-bin
   version: 5.16.4
   origversion: 5.16.4-1
-  status: newest
+  status: outdated
   summary: Terminal-based email client for Linux and macOS with IMAP and SMTP support (prebuilt)
   maintainers:
     - fr0stb1rd@aur
@@ -279,7 +279,7 @@
 - repo: homebrew
   srcname: nmail
   visiblename: nmail
-  version: 5.16.4
+  version: 5.17.26
   origversion: null
   status: newest
   summary: Terminal-based email client for Linux and macOS
