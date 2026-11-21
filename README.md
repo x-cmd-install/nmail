@@ -14,15 +14,15 @@ x install nmail
 
 ## Code insight
 
-Total: **236,622** lines of code across **1123** files in the top 5 languages.
+Total: **236,927** lines of code across **1123** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | C | 132,939 | 14,513 | 32,821 | 373 |
-| CHeader | 53,209 | 21,594 | 11,961 | 502 |
-| Cpp | 26,970 | 2,131 | 4,377 | 125 |
+| CHeader | 53,213 | 21,594 | 11,961 | 502 |
+| Cpp | 27,119 | 2,142 | 4,394 | 125 |
 | CppHeader | 13,045 | 6,280 | 2,611 | 95 |
-| Sh | 2,115 | 637 | 423 | 28 |
+| Sh | 2,115 | 638 | 423 | 28 |
 
 ## Source
 
@@ -31,8 +31,8 @@ Total: **236,622** lines of code across **1123** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v5.16.4` (2026-09-26)
-- **Last commit**: 2026-11-15
+- **Latest**: `v5.17.26` (2026-11-21)
+- **Last commit**: 2026-11-21
 - **Assets in release**: 7
 
 ## Popularity
@@ -41,38 +41,38 @@ Total: **236,622** lines of code across **1123** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 25 · **Open PRs**: 0 · **Closed issues**: 135 · **Open issues**: 0 · **Commits**: 711
+- **Releases**: 54 · **Merged PRs**: 25 · **Open PRs**: 0 · **Closed issues**: 135 · **Open issues**: 0 · **Commits**: 714
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 0 | 0 | 0 | 0 | 30 |
-| last60d | 2026-09-21 | 1 | 0 | 0 | 0 | 0 | 31 |
-| 90d | 2026-08-22 | 1 | 2 | 0 | 0 | 0 | 35 |
-| last180d | 2026-05-24 | 4 | 2 | 0 | 0 | 0 | 58 |
-| 360d | 2025-11-25 | 8 | 2 | 0 | 6 | 0 | 81 |
-| last720d | 2024-11-30 | 15 | 5 | 0 | 12 | 0 | 128 |
+| 30d | 2026-10-22 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-22 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-23 | 2 | 2 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-25 | 5 | 2 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-26 | 9 | 2 | 0 | 6 | 0 | 0 |
+| last720d | 2024-12-01 | 16 | 5 | 0 | 12 | 0 | 131 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [nmail-5.16.4-linux-arm64-glibc.tar.gz](https://github.com/d99kris/nmail/releases/download/v5.16.4/nmail-5.16.4-linux-arm64-glibc.tar.gz) | 5.0 MiB | `native/linux/arm64` |
-| [nmail-5.16.4-linux-arm64-musl.tar.gz](https://github.com/d99kris/nmail/releases/download/v5.16.4/nmail-5.16.4-linux-arm64-musl.tar.gz) | 5.3 MiB | `native/linux/arm64/musl` |
-| [nmail-5.16.4-linux-x86_64-glibc.tar.gz](https://github.com/d99kris/nmail/releases/download/v5.16.4/nmail-5.16.4-linux-x86_64-glibc.tar.gz) | 5.3 MiB | `native/linux/x64` |
-| [nmail-5.16.4-linux-x86_64-musl.tar.gz](https://github.com/d99kris/nmail/releases/download/v5.16.4/nmail-5.16.4-linux-x86_64-musl.tar.gz) | 5.2 MiB | `native/linux/x64/musl` |
-| [nmail-5.16.4-macos-arm64.tar.gz](https://github.com/d99kris/nmail/releases/download/v5.16.4/nmail-5.16.4-macos-arm64.tar.gz) | 3.7 MiB | `native/darwin/arm64` |
-| [sha256sums.txt](https://github.com/d99kris/nmail/releases/download/v5.16.4/sha256sums.txt) | 602 B | `other` |
-| [symbols-5.16.4.tar.gz](https://github.com/d99kris/nmail/releases/download/v5.16.4/symbols-5.16.4.tar.gz) | 11.2 MiB | `native/unknown` |
+| [nmail-5.17.26-linux-arm64-glibc.tar.gz](https://github.com/d99kris/nmail/releases/download/v5.17.26/nmail-5.17.26-linux-arm64-glibc.tar.gz) | 5.8 MiB | `native/linux/arm64` |
+| [nmail-5.17.26-linux-arm64-musl.tar.gz](https://github.com/d99kris/nmail/releases/download/v5.17.26/nmail-5.17.26-linux-arm64-musl.tar.gz) | 6.1 MiB | `native/linux/arm64/musl` |
+| [nmail-5.17.26-linux-x86_64-glibc.tar.gz](https://github.com/d99kris/nmail/releases/download/v5.17.26/nmail-5.17.26-linux-x86_64-glibc.tar.gz) | 6.1 MiB | `native/linux/x64` |
+| [nmail-5.17.26-linux-x86_64-musl.tar.gz](https://github.com/d99kris/nmail/releases/download/v5.17.26/nmail-5.17.26-linux-x86_64-musl.tar.gz) | 6.0 MiB | `native/linux/x64/musl` |
+| [nmail-5.17.26-macos-arm64.tar.gz](https://github.com/d99kris/nmail/releases/download/v5.17.26/nmail-5.17.26-macos-arm64.tar.gz) | 4.5 MiB | `native/darwin/arm64` |
+| [sha256sums.txt](https://github.com/d99kris/nmail/releases/download/v5.17.26/sha256sums.txt) | 608 B | `other` |
+| [symbols-5.17.26.tar.gz](https://github.com/d99kris/nmail/releases/download/v5.17.26/symbols-5.17.26.tar.gz) | 12.6 MiB | `native/unknown` |
 
 ## Distribution status
 
-Reported by **25** distros on [repology.org](https://repology.org/project/nmail). **3** are ✅ on the latest upstream release, **20** are ⚠️ on an older version.
+Reported by **25** distros on [repology.org](https://repology.org/project/nmail). **1** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `5.16.4` | ✅ latest |
+| Homebrew | `5.17.26` | ✅ latest |
 | Alpine edge | `5.12.6` | ⚠️ outdated |
 
 ## Improve this data
@@ -84,4 +84,4 @@ Install metadata for nmail lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T08:34:56Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:16:46Z._
