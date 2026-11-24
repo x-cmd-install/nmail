@@ -1,3 +1,25 @@
+- repo: gnuguix
+  srcname: nmail
+  binname: nmail
+  visiblename: nmail
+  version: 5.14.12
+  origversion: null
+  status: outdated
+  summary: Terminal-based email client
+- repo: homebrew
+  srcname: nmail
+  visiblename: nmail
+  version: 5.17.26
+  origversion: null
+  status: newest
+  summary: Terminal-based email client for Linux and macOS
+- repo: homebrew
+  srcname: nmail
+  visiblename: nmail
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Terminal-based email client for Linux and macOS
 - repo: alpine_3_20
   subrepo: community
   srcname: nmail
@@ -236,9 +258,9 @@
   srcname: nmail
   binname: nmail
   visiblename: nmail
-  version: 5.16.4
-  origversion: 5.16.4-1
-  status: outdated
+  version: 5.17.26
+  origversion: 5.17.26-1
+  status: newest
   summary: Terminal-based email client
   maintainers:
     - carlosal1015@aur
@@ -268,28 +290,6 @@
     - graysky@aur
   licenses:
     - MIT
-- repo: gnuguix
-  srcname: nmail
-  binname: nmail
-  visiblename: nmail
-  version: 5.14.12
-  origversion: null
-  status: outdated
-  summary: Terminal-based email client
-- repo: homebrew
-  srcname: nmail
-  visiblename: nmail
-  version: 5.17.26
-  origversion: null
-  status: newest
-  summary: Terminal-based email client for Linux and macOS
-- repo: homebrew
-  srcname: nmail
-  visiblename: nmail
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Terminal-based email client for Linux and macOS
 - repo: macports
   srcname: mail/nmail
   binname: nmail
