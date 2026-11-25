@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6421347,
       "digest": "sha256:3ac813639b05954c2139b681334639376937c5928b4bcd3e47022f1ac505b4b2",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-21T04:24:19Z",
       "updated_at": "2026-11-21T04:24:20Z",
       "browser_download_url": "https://github.com/d99kris/nmail/releases/download/v5.17.26/nmail-5.17.26-linux-x86_64-glibc.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6272656,
       "digest": "sha256:943c950234d2b676b03982b6c862d125949f3901676d05296bb5ac9746dece20",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-21T04:24:19Z",
       "updated_at": "2026-11-21T04:24:20Z",
       "browser_download_url": "https://github.com/d99kris/nmail/releases/download/v5.17.26/nmail-5.17.26-linux-x86_64-musl.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 608,
       "digest": "sha256:f7a7438f53df02ce84c3c80ccbceacba19de43f843fa80c673abec9dcd23c22e",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-21T04:24:19Z",
       "updated_at": "2026-11-21T04:24:20Z",
       "browser_download_url": "https://github.com/d99kris/nmail/releases/download/v5.17.26/sha256sums.txt"
@@ -291,5 +291,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/d99kris/nmail/tarball/v5.17.26",
   "zipball_url": "https://api.github.com/repos/d99kris/nmail/zipball/v5.17.26",
-  "body": "- add support for built-in html email conversion\r\n- add support for selecting and opening links in html message view\r\n- add support for selecting and opening links in plain text message view\r\n- add support for upgrading pre-built release binary\r\n- add support for saving message as text or markdown\r\n- add markdown text styling, configurable text attributes and new themes\r\n- add compact message view header showing names only\r\n- add command line option for installing bundled themes\r\n- add improved setup wizard and special folders detection\r\n- add configurable idle_delay_sec\r\n- fix build on freebsd\r\n- fix build on openbsd\r\n- fix custom regular text color not being applied\r\n- fix charset detection in pre-built binaries\r\n- fix single-char help key padding in list, compose and prompt views\r\n- fix raw html passthrough in markdown compose\r\n- fix unexpected hdr content warning when sending queued messages\r\n- improve oauth2 login robustness\r\n- change default message view to html\r\n- trim leading blank lines in message view\r\n- align message view header labels as in compose\r\n"
+  "body": "- add support for built-in html email conversion\r\n- add support for selecting and opening links in html message view\r\n- add support for selecting and opening links in plain text message view\r\n- add support for upgrading pre-built release binary\r\n- add support for saving message as text or markdown\r\n- add markdown text styling, configurable text attributes and new themes\r\n- add compact message view header showing names only\r\n- add command line option for installing bundled themes\r\n- add improved setup wizard and special folders detection\r\n- add configurable idle_delay_sec\r\n- fix build on freebsd\r\n- fix build on openbsd\r\n- fix custom regular text color not being applied\r\n- fix charset detection in pre-built binaries\r\n- fix single-char help key padding in list, compose and prompt views\r\n- fix raw html passthrough in markdown compose\r\n- fix unexpected hdr content warning when sending queued messages\r\n- improve oauth2 login robustness\r\n- change default message view to html\r\n- trim leading blank lines in message view\r\n- align message view header labels as in compose\r\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/d99kris/nmail/releases/453435047/reactions",
+    "total_count": 5,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 1,
+    "confused": 0,
+    "heart": 1,
+    "rocket": 1,
+    "eyes": 1
+  }
 }
