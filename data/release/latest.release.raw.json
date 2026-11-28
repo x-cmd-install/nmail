@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6272656,
       "digest": "sha256:943c950234d2b676b03982b6c862d125949f3901676d05296bb5ac9746dece20",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-11-21T04:24:19Z",
       "updated_at": "2026-11-21T04:24:20Z",
       "browser_download_url": "https://github.com/d99kris/nmail/releases/download/v5.17.26/nmail-5.17.26-linux-x86_64-musl.tar.gz"
